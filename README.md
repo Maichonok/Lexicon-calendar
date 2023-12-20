@@ -10,3 +10,6 @@ Tekniker du ska använda dig av är:
 * CSS grid
 
 ![calendar-mockup](screen.png)
+
+ ## GitHub Pages Link 
+ [here](https://maichonok.github.io/Lexicon-calendar/)
