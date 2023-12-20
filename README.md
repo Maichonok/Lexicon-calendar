@@ -12,4 +12,4 @@ Tekniker du ska använda dig av är:
 ![calendar-mockup](screen.png)
 
  ## GitHub Pages Link 
- [here](https://maichonok.github.io/Lexicon-calendar/)
+ [Calendar](https://maichonok.github.io/Lexicon-calendar/)
